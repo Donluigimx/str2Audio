@@ -6,10 +6,12 @@ A python program who encrypts strings into an audio file and decrypts the audio 
 For now, it only encrypts the string into a C scale audio.
 ---
 ## Dependencies
+
 * [Timidity](http://timidity.sourceforge.net/)
 * [Pyknon](https://github.com/kroger/pyknon)
 * [Numpy](http://www.numpy.org/)
 * [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+
 ---
 ## How to use it
 ### str2Audio
