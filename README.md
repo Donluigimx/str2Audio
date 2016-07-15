@@ -13,11 +13,11 @@ For now, it only encrypts the string into a C scale audio.
 ---
 ## How to use it
 ### str2Audio
-```bash
+```zsh
 python str2Audio.py [message] [filename]
 ```
 ###audio2Str
-```bash
+```zsh
 python str2Audio.py [filename.wav]
 ```
 *if you dont choose a filename, the audio recorder starts automatically*
