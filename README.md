@@ -22,7 +22,7 @@ For now, it only encrypts the string into a C scale audio.
 $ python str2Audio.py [message] [filename]
 ```
 
-###audio2Str
+### audio2Str
 
 ```shell
 $ python str2Audio.py [filename.wav]
